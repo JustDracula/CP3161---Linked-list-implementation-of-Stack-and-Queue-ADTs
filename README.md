@@ -1,1 +1,1 @@
-# CP3161---Linked-list-implementation-of-Stack-and-Queue-ADTs
+# CP3161-Linked_list_implementation_of_Stack_and_Queue_ADTs
